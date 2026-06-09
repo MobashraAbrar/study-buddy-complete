@@ -187,7 +187,7 @@ Go to: **http://localhost:5173**
 
 ## 📄 License
 
-This project is submitted as a final project for the **Artificial Intelligence Lab** course at **SZABIST University, Karachi — Spring 2026**.
+This project is submitted as a final project for the 6th semester at **SZABIST University, Gharo — Spring 2026**.
 
 ---
 
